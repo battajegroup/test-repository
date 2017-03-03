@@ -14,7 +14,6 @@ public class App
         System.out.println( "This is added in defect 321" );   
         
         System.out.println( "Added in the branch 123" );
-
-        
+               
     }
 }
