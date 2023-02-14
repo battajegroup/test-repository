@@ -1,3 +1,11 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
     "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovLzc5ZjYzZjQ3LTc3NTItNDNhNS1hZWMzLWNmNDQyMTEyOTEzMy5wdXNobm90aWZpY2F0aW9ucy5wdXNoZXIuY29tIiwic3ViIjoiNzQzMyIsImV4cCI6MTY3NjQ4MDI2OH0.peYgE0kQdRMP3Bn2EEhxK1Add5wbNYAZKNFT1Uv1kK8"
+}
 }
